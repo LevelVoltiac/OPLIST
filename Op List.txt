@@ -1,5 +1,5 @@
-OPLIST
-======
+OPLIST (Over Player) These songs will be skipped.
+=================================================
 
 Avicii - Super Mario World Levels
 Bastille - Pompeii (Audien Remix)
